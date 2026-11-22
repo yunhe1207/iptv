@@ -20,7 +20,7 @@
     {
       "key": "naixxzy",
       "name": "奶香香资源",
-      "type": 0,
+      "type": 1,
       "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,

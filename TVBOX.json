@@ -1,27 +1,11 @@
 {
   "sites": [
     {
-      "key": "点播源",
-      "name": "点播源",
-      "type": 0,
-      "api": "http://www.xyba.cn/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺"
-      ]
-    },
-    {
-      "key": "naixxzy",
-      "name": "奶香香资源",
+      "key": "xyezy.com",
+      "name": "星夜资源站",
       "type": 1,
-      "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
+      "api": "https://xyezy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://xyzybfq.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

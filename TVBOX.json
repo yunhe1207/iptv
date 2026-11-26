@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "xyezy.com",
-      "name": "星夜资源站",
-      "type": 1,
-      "api": "https://xyezy.com/api.php/provide/vod/?ac=list",
+      "key": "www.sex8zy.com",
+      "name": "杏吧",
+      "type": 0,
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
       "playUrl": "https://xyzybfq.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
@@ -15,6 +15,15 @@
       "name": "巨量资源网",
       "type": 0,
       "api": "https://api.juliang.live/api/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "https://didizy.com/",
+      "name": "滴滴资源",
+      "type": 0,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
